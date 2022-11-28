@@ -31,5 +31,5 @@ In this case there is a *Submit a feedback* page that contains a DOM-based XSS v
 </html>
 ```
 
-![Masked inline frame illustration](images/Masked_iframe.png)\
+![Masked inline frame illustration](images/click.png)\
 *Figure 4.11.9-2: Masked inline frame illustration*
