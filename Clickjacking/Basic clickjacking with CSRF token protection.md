@@ -54,5 +54,12 @@ Soo we further procced
 
 ![Masked inline frame illustration](images/click17.png)\
 
+***And then you to store the exploit and Preivew the exploit is it correctly over the Delete Button***
+
+***When the condition is favorable then deploy the exploit to the victim server**
+
+### And BOOM Exploit works and You solve the labs
+
 ![Masked inline frame illustration](images/click16.png)\
 
+***For more information stay tuned with us 
