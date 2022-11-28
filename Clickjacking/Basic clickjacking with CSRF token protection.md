@@ -62,4 +62,4 @@ Soo we further procced
 
 ![Masked inline frame illustration](images/click16.png)\
 
-***For more information stay tuned with us 
+***For more information stay tuned with us***
