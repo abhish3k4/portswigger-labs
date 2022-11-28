@@ -1,5 +1,6 @@
 ## Clickjacking with CSRF token Protection
 
+![Masked inline frame illustration](images/click12.png)\
 
 ### So lets start With Click on the Access labs
 To solve the lab, craft some HTML that frames the account page and fools the user into deleting their account. The lab is solved when the account is deleted.
