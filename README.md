@@ -1,6 +1,10 @@
 # Clickjacking
 
 
+
+<img src="/images/click.png" alt="" data-size="original">
+
+
 ## What is Clickjacking
 
 Clickjacking is an attack that **tricks** a **user** into **clicking** a webpage **element** which is **invisible** or disguised as another element. This can cause users to unwittingly download malware, visit malicious web pages, provide credentials or sensitive information, transfer money, or purchase products online. (From [here](https://portswigger.net/web-security/clickjacking/lab-basic-csrf-protected)).
@@ -157,7 +161,5 @@ See the following documentation for further details and more complex examples:
 
 * [**https://portswigger.net/web-security/clickjacking**](https://portswigger.net/web-security/clickjacking)
 * [**https://cheatsheetseries.owasp.org/cheatsheets/Clickjacking\_Defense\_Cheat\_Sheet.html**](https://cheatsheetseries.owasp.org/cheatsheets/Clickjacking\_Defense\_Cheat\_Sheet.html)
-
-<img src="/images click.png" alt="" data-size="original">
 
 
